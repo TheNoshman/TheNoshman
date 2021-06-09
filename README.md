@@ -8,7 +8,7 @@ I'm a Full Stack Web Developer primarily focused on the JavaScript environment. 
 
 * [LeakSeeker](https://github.com/TheNoshman/leak-seeker): A web application for researching/ uploading common vehicle faults using a licence plate number. Future tasks include integrating a image hosting client, expanding the Chart.js integration  and building a fault sorting algorithm.
   * [LeakSeeker on LinkedIn](https://www.linkedin.com/company/leakseeker/)
-* [OuttaHere](https://github.com/TheNoshman/outtahere): A native mobile public transport application which allows the user to enter a budget and returns the furthest destination they can reach and data associated with that journey. In early development.
+* [OuttaHere](https://github.com/TheNoshman/outtahere): A native mobile public transport application which allows the user to enter a desired travel time and returns destinations they can reach via public transport within the specified timeframe and activities/ recommendations for things to do at the destination. In early development.
 
 #### 🤖 A bit about me:
 
