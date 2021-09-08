@@ -2,7 +2,7 @@
 
 > *Shameless plug - [LinkedIn](https://www.linkedin.com/in/chrisnorish/)*
 
-I'm a Full Stack Web Developer primarily focused on the JavaScript environment. Proficient in React & React Native, Redux, Node.js, TypeScript, Express, Koa, Mongo, SQL, ORM's, GraphQL, Jest, Tailwind & WebSockets. Also competent in Python. 
+I'm a Front End React Developer at FLAGS Software, focused on the JavaScript environment. Proficient in React & React Native, Redux, Node.js, TypeScript, Express, Koa, Mongo, SQL, ORM's, Jest, Tailwind & SASS. Also competent in Python. 
 
 #### 🚀 Projects I'm currently working on:
 
